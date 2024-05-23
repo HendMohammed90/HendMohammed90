@@ -1,11 +1,5 @@
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋, I'm Hend  😊 </h1>
-    <p>A Software developer and systems architect with experience in designing, coding, and testing complex systems.</p></summary>
-
-  </ul>
-</div>
+<h1 align="center">Hi 👋, I'm Hend Mohammed 😊</h1>
+<h3 align="center">A Software developer and systems architect with experience in designing, coding, and testing complex systems.</h3>
 
 <!--- snake -->
 <div align="center">
@@ -13,10 +7,9 @@
        alt="snake" /></a>
 </div>
 
-
 <!--Intro start-->
 **Welcome** to my Github! I make some fun codes to learn new things and help other people learn it too (especially from my mistakes 😅).
-- 🔭 I’m currently working on **React, React Native, Nodejs, MongoDB**
+- 🔭 I’m currently working on **React, React Native**
 
 - 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications.**
 
@@ -110,4 +103,22 @@ Graduated from Fuculty of Scince Ain Shams Uneversity, Pyhiscs and Computer Depa
 </div>
 
 ###
+
+
+### 🥇 Certifications:
+
+<div align="center">
+  <img width="500" alt="hendCertificate" src="https://github.com/HendMohammed90/HendMohammed90/assets/17815892/83636767-a5e9-4090-8a5c-c793ef23dbc0">
+  <img width="500"  alt="AICE-certificate-hend-mohammed" src="https://github.com/HendMohammed90/HendMohammed90/assets/17815892/40651232-a5fd-476e-92f8-63ee8accdeae">
+  <img width="500" alt="hendMohammedCertificate" src="https://github.com/HendMohammed90/HendMohammed90/assets/17815892/36905f94-f073-476e-9a98-f7942da72206">
+  <img width="500"  alt="e0bb4e5f-c982-4572-b0a6-37c225717f8a" src="https://github.com/HendMohammed90/HendMohammed90/assets/17815892/1bc38054-568b-43e7-b59a-73587c2076f3">
+</div>
+
+<h5 align="center">©️ Hend Mohammed 2024</h5>
+
+<a href="#">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+</a>
+
+
 
