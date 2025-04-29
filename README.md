@@ -9,7 +9,7 @@
 
 <!--Intro start-->
 **Welcome** to my Github! I make some fun codes to learn new things and help other people learn it too (especially from my mistakes 😅).
-- 🔭 I’m currently working on **React, React Native**
+- 🔭 I’m currently working on **React, Next**
 
 - 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications.**
 
