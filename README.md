@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hend Mohammed 😊</h1>
 <h3 align="center">A Software developer and systems architect with experience in designing, coding, and testing complex systems.</h3>
 
-<!--- snake -->
-<div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
+
 
 <!--Intro start-->
 **Welcome** to my Github! I make some fun codes to learn new things and help other people learn it too (especially from my mistakes 😅).
