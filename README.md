@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications.**
 
-- ☁️ I've keen interest in cloud computing. So,I'm learning **AWS**
+- ☁️ I've keen interest in cloud computing. So,I'm learning **DevOps**
 
 - 📫 Feel free to reach me out **hend.odesk.tasks@gmail.com**
 
